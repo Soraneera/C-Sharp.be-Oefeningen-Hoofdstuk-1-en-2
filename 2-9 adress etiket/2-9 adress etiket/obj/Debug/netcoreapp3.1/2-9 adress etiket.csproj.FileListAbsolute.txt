@@ -1,0 +1,13 @@
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\obj\Debug\netcoreapp3.1\2-9 adress etiket.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\obj\Debug\netcoreapp3.1\2-9 adress etiket.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\obj\Debug\netcoreapp3.1\2-9 adress etiket.AssemblyInfo.cs
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\obj\Debug\netcoreapp3.1\2-9 adress etiket.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\bin\Debug\netcoreapp3.1\2-9 adress etiket.exe
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\bin\Debug\netcoreapp3.1\2-9 adress etiket.deps.json
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\bin\Debug\netcoreapp3.1\2-9 adress etiket.runtimeconfig.json
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\bin\Debug\netcoreapp3.1\2-9 adress etiket.runtimeconfig.dev.json
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\bin\Debug\netcoreapp3.1\2-9 adress etiket.dll
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\bin\Debug\netcoreapp3.1\2-9 adress etiket.pdb
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\obj\Debug\netcoreapp3.1\2-9 adress etiket.dll
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\obj\Debug\netcoreapp3.1\2-9 adress etiket.pdb
+C:\Users\domin\source\repos\2-9 adress etiket\2-9 adress etiket\obj\Debug\netcoreapp3.1\2-9 adress etiket.genruntimeconfig.cache

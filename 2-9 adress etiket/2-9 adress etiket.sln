@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-9 adress etiket", "2-9 adress etiket\2-9 adress etiket.csproj", "{1232C9CE-04CB-4814-8CE0-29929C0897DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1232C9CE-04CB-4814-8CE0-29929C0897DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1232C9CE-04CB-4814-8CE0-29929C0897DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1232C9CE-04CB-4814-8CE0-29929C0897DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1232C9CE-04CB-4814-8CE0-29929C0897DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ECCE485-1963-4794-AE4C-A7F58E5FF53D}
+	EndGlobalSection
+EndGlobal
