@@ -1,0 +1,13 @@
+C:\Users\domin\source\repos\euro to usd\euro to usd\obj\Debug\netcoreapp3.1\euro to usd.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\euro to usd\euro to usd\obj\Debug\netcoreapp3.1\euro to usd.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\euro to usd\euro to usd\obj\Debug\netcoreapp3.1\euro to usd.AssemblyInfo.cs
+C:\Users\domin\source\repos\euro to usd\euro to usd\obj\Debug\netcoreapp3.1\euro to usd.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\euro to usd\euro to usd\bin\Debug\netcoreapp3.1\euro to usd.exe
+C:\Users\domin\source\repos\euro to usd\euro to usd\bin\Debug\netcoreapp3.1\euro to usd.deps.json
+C:\Users\domin\source\repos\euro to usd\euro to usd\bin\Debug\netcoreapp3.1\euro to usd.runtimeconfig.json
+C:\Users\domin\source\repos\euro to usd\euro to usd\bin\Debug\netcoreapp3.1\euro to usd.runtimeconfig.dev.json
+C:\Users\domin\source\repos\euro to usd\euro to usd\bin\Debug\netcoreapp3.1\euro to usd.dll
+C:\Users\domin\source\repos\euro to usd\euro to usd\bin\Debug\netcoreapp3.1\euro to usd.pdb
+C:\Users\domin\source\repos\euro to usd\euro to usd\obj\Debug\netcoreapp3.1\euro to usd.dll
+C:\Users\domin\source\repos\euro to usd\euro to usd\obj\Debug\netcoreapp3.1\euro to usd.pdb
+C:\Users\domin\source\repos\euro to usd\euro to usd\obj\Debug\netcoreapp3.1\euro to usd.genruntimeconfig.cache

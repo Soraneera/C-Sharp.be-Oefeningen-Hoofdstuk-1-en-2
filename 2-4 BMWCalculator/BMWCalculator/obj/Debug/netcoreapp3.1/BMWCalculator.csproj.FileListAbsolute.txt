@@ -1,0 +1,13 @@
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\obj\Debug\netcoreapp3.1\BMWCalculator.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\obj\Debug\netcoreapp3.1\BMWCalculator.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\obj\Debug\netcoreapp3.1\BMWCalculator.AssemblyInfo.cs
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\obj\Debug\netcoreapp3.1\BMWCalculator.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\bin\Debug\netcoreapp3.1\BMWCalculator.exe
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\bin\Debug\netcoreapp3.1\BMWCalculator.deps.json
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\bin\Debug\netcoreapp3.1\BMWCalculator.runtimeconfig.json
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\bin\Debug\netcoreapp3.1\BMWCalculator.runtimeconfig.dev.json
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\bin\Debug\netcoreapp3.1\BMWCalculator.dll
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\bin\Debug\netcoreapp3.1\BMWCalculator.pdb
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\obj\Debug\netcoreapp3.1\BMWCalculator.dll
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\obj\Debug\netcoreapp3.1\BMWCalculator.pdb
+C:\Users\domin\source\repos\BMWCalculator\BMWCalculator\obj\Debug\netcoreapp3.1\BMWCalculator.genruntimeconfig.cache
