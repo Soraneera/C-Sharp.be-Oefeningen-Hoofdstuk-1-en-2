@@ -1,0 +1,13 @@
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\bin\Debug\netcoreapp3.1\Ploperdeplop.exe
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\bin\Debug\netcoreapp3.1\Ploperdeplop.deps.json
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\bin\Debug\netcoreapp3.1\Ploperdeplop.runtimeconfig.json
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\bin\Debug\netcoreapp3.1\Ploperdeplop.runtimeconfig.dev.json
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\bin\Debug\netcoreapp3.1\Ploperdeplop.dll
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\bin\Debug\netcoreapp3.1\Ploperdeplop.pdb
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\obj\Debug\netcoreapp3.1\Ploperdeplop.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\obj\Debug\netcoreapp3.1\Ploperdeplop.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\obj\Debug\netcoreapp3.1\Ploperdeplop.AssemblyInfo.cs
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\obj\Debug\netcoreapp3.1\Ploperdeplop.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\obj\Debug\netcoreapp3.1\Ploperdeplop.dll
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\obj\Debug\netcoreapp3.1\Ploperdeplop.pdb
+C:\Users\domin\source\repos\Ploperdeplop\Ploperdeplop\obj\Debug\netcoreapp3.1\Ploperdeplop.genruntimeconfig.cache

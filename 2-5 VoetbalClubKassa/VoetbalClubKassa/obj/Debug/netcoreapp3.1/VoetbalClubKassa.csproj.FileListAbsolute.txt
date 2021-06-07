@@ -1,0 +1,13 @@
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\obj\Debug\netcoreapp3.1\VoetbalClubKassa.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\obj\Debug\netcoreapp3.1\VoetbalClubKassa.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\obj\Debug\netcoreapp3.1\VoetbalClubKassa.AssemblyInfo.cs
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\obj\Debug\netcoreapp3.1\VoetbalClubKassa.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\bin\Debug\netcoreapp3.1\VoetbalClubKassa.exe
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\bin\Debug\netcoreapp3.1\VoetbalClubKassa.deps.json
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\bin\Debug\netcoreapp3.1\VoetbalClubKassa.runtimeconfig.json
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\bin\Debug\netcoreapp3.1\VoetbalClubKassa.runtimeconfig.dev.json
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\bin\Debug\netcoreapp3.1\VoetbalClubKassa.dll
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\bin\Debug\netcoreapp3.1\VoetbalClubKassa.pdb
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\obj\Debug\netcoreapp3.1\VoetbalClubKassa.dll
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\obj\Debug\netcoreapp3.1\VoetbalClubKassa.pdb
+C:\Users\domin\source\repos\VoetbalClubKassa\VoetbalClubKassa\obj\Debug\netcoreapp3.1\VoetbalClubKassa.genruntimeconfig.cache

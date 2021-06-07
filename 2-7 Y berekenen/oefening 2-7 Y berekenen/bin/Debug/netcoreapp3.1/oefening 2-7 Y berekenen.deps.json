@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "oefening 2-7 Y berekenen/1.0.0": {
+        "runtime": {
+          "oefening 2-7 Y berekenen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "oefening 2-7 Y berekenen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

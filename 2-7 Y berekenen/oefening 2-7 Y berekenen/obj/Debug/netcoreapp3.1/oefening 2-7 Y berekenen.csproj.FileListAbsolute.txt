@@ -1,0 +1,13 @@
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\obj\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\obj\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\obj\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.AssemblyInfo.cs
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\obj\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\bin\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.exe
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\bin\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.deps.json
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\bin\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.runtimeconfig.json
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\bin\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.runtimeconfig.dev.json
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\bin\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.dll
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\bin\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.pdb
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\obj\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.dll
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\obj\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.pdb
+C:\Users\domin\source\repos\oefening 2-7 Y berekenen\oefening 2-7 Y berekenen\obj\Debug\netcoreapp3.1\oefening 2-7 Y berekenen.genruntimeconfig.cache
